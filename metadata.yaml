@@ -1,5 +1,8 @@
 _repo: What-America-did-b-A-record-of-achievement-in-the-prosecution-of-the-War_72543
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72543-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelly, Florence Finch
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7939
     wikipedia: https://en.wikipedia.org/wiki/Florence_Finch_Kelly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72543#What-America-did-b-A-record-of-achievement-in-the-prosecution-of-the-War
 gutenberg_issued: '2023-12-29'
 gutenberg_type: Text
 identifiers:
